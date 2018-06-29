@@ -1,0 +1,54 @@
+
+body {
+  background-color: white;
+  text-align: center;
+}
+h1 {
+  font-family: Verdana;
+  font-size: 70px;
+  color: White;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  color: White;
+}
+
+h4 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.cta {
+color: aquamarine;
+font-size: 16px;
+}
+
+.title {
+  background-image: url(""./resourse/css/images/the-flatiron-building.png");
+}
+.subtitle {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  }
+.subtitle-brushes {
+  background-color: mediumspringgreen;
+  }
+.subtitle-frames {
+  background-color: lightcoral;
+  }
+  .subtitle-paint {
+    background-color: skyblue;
+    }
+.details {
+  font-family: Helvetica;
+  color: gray;
+}
+.pricing {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+  }
